@@ -27,9 +27,5 @@ To install Gamesense Cheat Loaders, follow these steps:
 
 ```bash
 git clone https://github.com/lux-206/Project-X-Gamesense-GUI
-.git
-cd projectname
-dotnet restore
-dotnet build
-](https://github.com/lux-206/GProject-X-Gamesense-GUI
-)
+
+
