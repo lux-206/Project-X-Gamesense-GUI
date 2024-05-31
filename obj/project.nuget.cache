@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAljuTU8CK2BA4gbCioiCW6SHavv3geE2L1b0M52dcKsgf+xQzWIzumpKNBewNUx//zaJ1jfWMRwTuHTA6RlhA==",
+  "success": true,
+  "projectFilePath": "C:\\Coding\\C#\\Project X\\Project X.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loren\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\loren\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

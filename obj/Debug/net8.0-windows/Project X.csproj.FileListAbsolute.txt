@@ -1,0 +1,28 @@
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\Project X.exe
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\Project X.deps.json
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\Project X.runtimeconfig.json
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\Project X.dll
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\Project X.pdb
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project_X.Properties.Resources.resources
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.csproj.GenerateResource.cache
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.AssemblyInfoInputs.cache
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.AssemblyInfo.cs
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.csproj.CoreCompileInputs.cache
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.dll
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\refint\Project X.dll
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.pdb
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.genruntimeconfig.cache
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\ref\Project X.dll
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project_X.Loader.resources
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project_X.Form2.resources
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project_X.Form3.resources
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\System.Management.dll
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.csproj.AssemblyReference.cache
+C:\Coding\C#\Project X\obj\Debug\net8.0-windows\Project X.csproj.CopyComplete
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\System.Management.Instrumentation.dll
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\System.Configuration.Install.dll
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\System.Management.Instrumentation.xml
+C:\Coding\C#\Project X\bin\Debug\net8.0-windows\System.Configuration.Install.xml
