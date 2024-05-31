@@ -6,6 +6,9 @@
 
 Gamesense Cheat Loaders is a loader for loaders, designed to facilitate the integration of paid cheats, This project provides a GUI inspired by gamesense.pub for selecting and loading the cheats you own. Think of it as an "exloader" for your paid cheats, simplifying the process of downloading the loader and cleaning your pc after.
 
+## History
+
+I frist made this project for Fivem Cheating so admins whould not find execultables on my pc, Now i used for R6 and CS2, you can change the download of the loader in the Form2.cs in the lines 122 and 127 
 
 ## Table of Contents
 
