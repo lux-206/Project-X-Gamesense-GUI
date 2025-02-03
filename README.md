@@ -4,7 +4,7 @@
 
 ## Description
 
-Gamesense Cheat Loaders is a loader for loaders, designed to facilitate the integration of paid cheats, This project provides a GUI inspired by gamesense.pub for selecting and loading the cheats you own. Think of it as an "exloader" for your paid cheats, simplifying the process of downloading the loader and cleaning your pc after.
+Gamesense Cheat Loaders is a loader for execultables, designed to facilitate the integration of paid cheats, This project provides a GUI inspired by gamesense.pub for selecting and loading the cheats you own. Think of it as an "exloader" for your paid cheats, simplifying the process of downloading the loader and cleaning your pc after.
 
 ## History
 
